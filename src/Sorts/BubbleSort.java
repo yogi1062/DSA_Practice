@@ -1,5 +1,7 @@
 package Sorts;
 
+// in Bubble Sort time complexity is - 0(n2).
+//we are swapping the elements inside the inner loop.
 public class BubbleSort {
    public static void main(String[] args) {
         int []arr = {6,1,3,9,2,5,7};
